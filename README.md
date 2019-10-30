@@ -1,3 +1,3 @@
 # Othello
 
-This project was from my intensives foundation of CS course. Currently there is no ai component, but player switches after each click.
+This project was from fall 2018 (intensive foundations of CS). Currently there is no ai component, but player switches after each click.
