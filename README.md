@@ -1,7 +1,8 @@
-# Othello
+# Othello Board Game
 
-This project was from fall 2018 (intensive foundations of CS). Currently there is no ai component, but player switches after each click.
+Class project (Fall 2018)
 
+Othello board game using Turtle in Python. Currently no working AI component. Players click to choose a tile.
 
 ![alt text](https://github.com/DFinelli/othello/blob/master/Screen%20Shot%202019-10-30%20at%203.24.23%20PM.png)
 
